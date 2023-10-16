@@ -6,7 +6,7 @@ Hi I'm JavaScript | React developer, I have about a year of front-end experience
 
 - 🌍  I'm based in Uzbekistan, Fergana
 - 🖥️  See my portfolio at [My Resume](http://maqsadbek-cv.netlify.app/)
-- ✉️  You can contact me at [maqsadbekusmonov8@gmail.com](mailto:maqsadbekusmonov8@gmail.com)
+- ✉️  You can contact me at [maqsadbekweb@gmail.com](mailto:maqsadbekweb@gmail.com)
 - 🚀  I'm currently working on [IT Center](http://maps.app.goo.gl/X2Nip3vH4BuWbTbEA)
 - ⚡  I'm currently a front-end developer and I'm also ready to do a big one-off project.
 
